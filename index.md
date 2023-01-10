@@ -17,10 +17,11 @@
 * [嵌套 UIScrollView 如何流畅滚动](https://github.com/shyang/StickyHeader)
 
 ### 网络
-* [idl 自动生成 Swift 网络封装](idl-swift-gen)
+* [idl 自动生成 Swift 网络封装](idl-swift-gen.md)
 * [网络库改版方案](https://github.com/shyang/Requests)
 
 ### 动态化
 * [动态生成一个类，并拦截对其发送的消息](https://github.com/shyang/DynamicClass)
 * [动态创建任意一个 block 对象](https://github.com/shyang/BlockFFI)
 * [llvm 插件提取函数/方法完整签名](https://github.com/shyang/SignatureExtractor)
+* [Micro C Compiler 极简的C编译器](c-parser.md)
